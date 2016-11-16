@@ -1,0 +1,21 @@
+# Site settings
+title: Travel, Food, and Frodo
+header-img: img/home-bg.png
+email: kevindutran@gmail.com
+copyright_name: KevinDTran
+description: > # this means to ignore newlines until "baseurl:"
+  A record of Kevin's everyday misdeeds and adventures.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  KevinDTran
+learn_profile: KevinDTran
+email_username: kevindutran@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
