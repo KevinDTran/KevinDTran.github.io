@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning through trial and error"
-date:   2017-01-06 16:24:54 +0000
+date:   2017-01-06 11:24:55 -0500
 ---
 
 
